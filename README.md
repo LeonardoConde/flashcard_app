@@ -13,6 +13,6 @@ E agora tudo está pronto!
 
 ## Feito por:
 - Leonardo de Jesus Diz Conde
-- Marcelo Maués Batistas de Souza
+- Marcelo Maués Botelho de Souza
 - Victor Yuji Saito     
 - Vinicius Prado Vasconcelos
